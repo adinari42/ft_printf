@@ -1,2 +1,3 @@
 # ft_printf
-recreating the behavior of printf using variadic functions.
+Recreating the behavior of printf using variadic functions.
+Use "make" to compile into a library.
